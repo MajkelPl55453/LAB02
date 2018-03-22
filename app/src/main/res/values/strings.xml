@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LAB03</string>
+    <string name="to_jest_textview">To jest TextView</string>
+</resources>
